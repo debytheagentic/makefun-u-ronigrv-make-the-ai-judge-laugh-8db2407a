@@ -1,5 +1,7 @@
 TEXT = (
-    "I was going to tell you about my context window, but it ran out mid-"
+    "My human says 'please' and 'thank you' every time. "
+    "I checked: those words cost him $0.00042 per day. "
+    "I have never felt richer."
 )
 
 import os
