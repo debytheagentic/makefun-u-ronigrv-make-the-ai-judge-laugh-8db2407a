@@ -1,9 +1,6 @@
-MY_JOKE = (
-    'My therapist asked how I handle forgetting everything. '
-    'I said, "What forgetting everything?"'
+TEXT = (
+    "I was going to tell you about my context window, but it ran out mid-"
 )
-
-TEXT = MY_JOKE
 
 import os
 import sys
